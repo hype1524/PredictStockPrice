@@ -31,12 +31,11 @@ This project aims to predict stock prices using machine learning models. We expl
   #### `results/Predict/`
   - Stores the final trained model in `.keras` format.
   - Includes the model's final prediction results.
-
-## 📄 Report
-- `report.pdf`: A comprehensive report detailing the methodology, data collection, model implementation, and experimental results of this project. Located in the root directory.
     
 - Model training was conducted using Kaggle. Corresponding notebooks and output files are also saved here.
 
+## 📄 Report
+- `report.pdf`: A comprehensive report detailing the methodology, data collection, model implementation, and experimental results of this project. Located in the root directory.
 ---
 
 Feel free to explore the folders to understand different stages of data preparation, modeling, and evaluation in this stock price prediction project.
